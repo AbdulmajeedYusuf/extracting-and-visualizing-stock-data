@@ -1,4 +1,4 @@
-## extract-and-visualize-stock-data
+## Extract & Visualize Stock Data
 Analyzing Historical Stock/Revenue Data and Building a Dashboard. 
 
 
